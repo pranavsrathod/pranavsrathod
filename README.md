@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Pranav Rathod
 
-<!--
-**pranavsrathod/pranavsrathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a creative technologist and software engineer currently pursuing my **Master’s in Computer Science** at the **University of Southern California**, specializing in **Multimedia and Creative Technologies**.
 
-Here are some ideas to get you started:
+My work explores the space where code meets creativity — whether it’s building **real-time renderers**, designing **interactive XR experiences**, or experimenting with **game engine systems**. I’m especially passionate about how software can be used as a tool for expression, storytelling, and interaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Areas I’m Interested In
+- Real-time rendering & graphics pipelines  
+- XR interfaces, perception, and spatial computing  
+- Game engine architecture & systems design  
+- Human-computer interaction through motion & visuals  
+
+---
+
+### 📸 Beyond the Code  
+I enjoy capturing urban architecture and everyday symmetry through street photography — mostly shot on my iPhone.
+
+---
+
+### 🌐 Links  
+- 🔗 [Website](https://pranavrathod.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranavrathod)  
+- 🎓 [Resume](https://pranavrathod.com/Resume/Pranav_Rathod_Resume.pdf)  
