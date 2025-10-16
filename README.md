@@ -21,5 +21,5 @@ I enjoy capturing urban architecture and everyday symmetry through street photog
 
 ### 🌐 Links  
 - 🔗 [Website](https://pranavrathod.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pranavrathod)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranavsrathod)  
 - 🎓 [Resume](https://pranavrathod.com/Resume/Pranav_Rathod_Resume.pdf)  
